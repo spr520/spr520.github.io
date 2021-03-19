@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.shapeshift.hexrush",
+    "package_name": "com.spencer.instantapp",
     "sha256_cert_fingerprints":
     ["FC:FA:92:06:E0:91:59:37:88:C1:2D:18:7A:5A:09:E9:5C:70:3D:C5:F9:11:94:CC:E7:9A:83:68:C3:ED:85:D9"]
   }
@@ -18,7 +18,7 @@
   "relation": ["delegate_permission/common.get_login_creds"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.shapeshift.hexrush",
+    "package_name": "com.spencer.instantapp",
     "sha256_cert_fingerprints":
     ["FC:FA:92:06:E0:91:59:37:88:C1:2D:18:7A:5A:09:E9:5C:70:3D:C5:F9:11:94:CC:E7:9A:83:68:C3:ED:85:D9"]
   }
