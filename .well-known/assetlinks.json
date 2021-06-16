@@ -21,4 +21,14 @@
     "package_name": "com.spencer.instantapp",
     "sha256_cert_fingerprints":
     ["BB:24:28:DF:A1:5C:59:92:69:0E:66:B5:05:F9:BB:43:85:5A:D5:86:6F:8B:54:12:3E:CA:3A:8D:8C:11:F4:58"]
+}],
+  [{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.spencer.instantapp",
+    "sha256_cert_fingerprints":
+    ["BB:24:28:DF:A1:5C:59:92:69:0E:66:B5:05:F9:BB:43:85:5A:D5:86:6F:8B:54:12:3E:CA:3A:8D:8C:11:F4:58"]
+  }
 }]
+  
