@@ -4,6 +4,22 @@
     "namespace": "android_app",
     "package_name": "com.spencer.instantapp",
     "sha256_cert_fingerprints":
-    ["AF:DA:7C:34:7E:51:67:37:B4:F1:7D:4A:19:0C:88:96:3F:7F:0E:AA:97:6E:41:8F:11:81:94:45:56:4F:7E:5B"]
+    ["FC:FA:92:06:E0:91:59:37:88:C1:2D:18:7A:5A:09:E9:5C:70:3D:C5:F9:11:94:CC:E7:9A:83:68:C3:ED:85:D9"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://spr520.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.spencer.instantapp",
+    "sha256_cert_fingerprints":
+    ["FC:FA:92:06:E0:91:59:37:88:C1:2D:18:7A:5A:09:E9:5C:70:3D:C5:F9:11:94:CC:E7:9A:83:68:C3:ED:85:D9"]
   }
 }]
