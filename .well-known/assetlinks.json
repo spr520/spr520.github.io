@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.spencer.instantapp",
+    "package_name": "com.m800.liveconnect.mobile.agent.tb",
     "sha256_cert_fingerprints":
-    ["BB:24:28:DF:A1:5C:59:92:69:0E:66:B5:05:F9:BB:43:85:5A:D5:86:6F:8B:54:12:3E:CA:3A:8D:8C:11:F4:58"]
+    ["65:4C:56:C9:00:8F:62:CC:D9:45:F7:74:25:28:8B:E3:DA:AA:23:8E:2B:50:3D:9B:2C:D6:69:AF:BE:02:6D:88"]
   }
 }]
