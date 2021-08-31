@@ -1,0 +1,70 @@
+{
+  "applinks": {
+    "apps": [],
+    "appIDs": [
+      "Q8C886TPXB.com.m800.liveconnect.mobile.agent.testbed",
+      "Q8C886TPXB.com.m800.liveconnect.mobile.agent.intg",
+      "Q8C886TPXB.com.m800.liveconnect.mobile.agent.dev"
+    ],
+    "details": [
+      {
+        "appID": "Q8C886TPXB.com.m800.liveconnect.mobile.agent.testbed",
+        "components": [
+          {
+            "/": "/*/dl",
+            "comment": "Matches deep link"
+          },
+          {
+            "/": "/*/dl/*",
+            "comment": "Matches deep link"
+          },
+          {
+            "/": "/dl",
+            "comment": "Matches deep link"
+          },
+          {
+            "/": "/dl/*",
+            "comment": "Matches deep link"
+          }
+        ],
+        "paths": [
+	 "/*/dl",
+	 "/*/dl/*",
+	 "/dl",
+	 "/dl/*"
+        ]
+      },
+      {
+        "appID": "Q8C886TPXB.com.m800.liveconnect.mobile.agent.intg",
+        "components": [
+          {
+            "/": "*",
+            "comment": "Matches all url"
+          }
+        ],
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "Q8C886TPXB.com.m800.liveconnect.mobile.agent.dev",
+        "components": [
+          {
+            "/": "*",
+            "comment": "Matches all url"
+          }
+        ],
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "Q8C886TPXB.com.m800.liveconnect.mobile.agent.testbed",
+      "Q8C886TPXB.com.m800.liveconnect.mobile.agent.intg",
+      "Q8C886TPXB.com.m800.liveconnect.mobile.agent.dev"
+    ]
+  }
+}
