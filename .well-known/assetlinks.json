@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["65:4C:56:C9:00:8F:62:CC:D9:45:F7:74:25:28:8B:E3:DA:AA:23:8E:2B:50:3D:9B:2C:D6:69:AF:BE:02:6D:88"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.m800.liveconnect.mobile.agent.intg",
+    "sha256_cert_fingerprints":
+    ["65:4C:56:C9:00:8F:62:CC:D9:45:F7:74:25:28:8B:E3:DA:AA:23:8E:2B:50:3D:9B:2C:D6:69:AF:BE:02:6D:88"]
+  }
 }]
